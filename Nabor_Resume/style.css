@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    color:black;
+    background-color:blueviolet;
+    font-weight: normal;
+    font-size: 1em;
+    border-top: 15px white;
+    border-left: 5px green;
+    margin-right: 15px;
+    margin-left: 5px;
+    padding: 10px;
+
+}
+h1{
+    background-color:antiquewhite;
+    padding: 20px 20px;
+    margin: 1.6em;
+    position:relative;
+}
+.personal{
+    color: white;
+}
+.personal h2{
+
+    color:azure;
+    background-color: violet;
+    position: cover;
+    margin-bottom: 15px;
+}
+.personal tr{
+
+    color: white;
+}
+.personal p{
+    color:antiquewhite;
+    margin: 5px 10px;
+}
+.personal img{
+    border-radius: 200px;
+    border-top: 100px;
+}
+
+.obj h2{
+    color: aliceblue;
+    background-color: violet;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+.obj p{
+    color: antiquewhite;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.eb h2{
+    color: white;
+    background-color: violet;
+}
+.eb p{
+    color: aliceblue;
+}
