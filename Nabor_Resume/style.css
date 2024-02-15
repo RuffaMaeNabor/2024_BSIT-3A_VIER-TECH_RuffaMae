@@ -6,14 +6,14 @@
 body{
     font-family:Arial, Helvetica, sans-serif;
     color:black;
-    background-color:blueviolet;
+    background-color:#6c5764;
     font-weight: normal;
-    font-size: 1em;
+    font-size: 1.2em;
     border-top: 15px white;
     border-left: 5px green;
     margin-right: 15px;
     margin-left: 5px;
-    padding: 10px;
+    padding: 20px;
 
 }
 h1{
@@ -27,17 +27,17 @@ h1{
 }
 .personal h2{
 
-    color:azure;
-    background-color: violet;
+    color: black;
+    background-color: white;
     position: cover;
     margin-bottom: 15px;
 }
 .personal tr{
 
-    color: white;
+    color:bisque;
 }
 .personal p{
-    color:antiquewhite;
+    color: white;
     margin: 5px 10px;
 }
 .personal img{
@@ -46,21 +46,35 @@ h1{
 }
 
 .obj h2{
-    color: aliceblue;
-    background-color: violet;
+    color: black;
+    background-color: white;
     margin-bottom: 5px;
-    padding: 10px;
+    padding: 3px;
+
 }
 .obj p{
-    color: antiquewhite;
+    color: white;
     font-size: 1.2em;
     margin-bottom: 5px;
     margin-top: 5px;
+    padding: 10px;
 }
 .eb h2{
-    color: white;
-    background-color: violet;
+    color: black;
+    background-color: white;
+    padding: 1px;
 }
 .eb p{
-    color: aliceblue;
+    color:white;
+    padding:2px;
+    padding-left: 5px;
+}
+.eb h3{
+
+    color:bisque;
+    padding: 5px;
+}
+.skills li{
+color: white;
+margin-left: 40px;
 }
