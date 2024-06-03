@@ -46,8 +46,8 @@ include 'components/add_cart.php';
          <div class="swiper-slide slide">
             <div class="content">
                <span>order online</span>
-               <h3>delicious pizza</h3>
-               <a href="menu.html" class="btn">Shop Now</a>
+               <h3>Your Food’s Favorite Store</h3>
+               <a href="menu.php" class="btn">Shop Now</a>
             </div>
             <div class="image">
                <img src="images/woman.png" alt="">
@@ -56,23 +56,23 @@ include 'components/add_cart.php';
 
          <div class="swiper-slide slide">
             <div class="content">
-               <span>order online</span>
-               <h3>chezzy hamburger</h3>
-               <a href="menu.html" class="btn">Shop Now</a>
+               <span>enjoy discounts</span>
+               <h3>50% Voucher</h3>
+               <a href="menu.php" class="btn">Shop Now</a>
             </div>
             <div class="image">
-               <img src="images/home-img-2.png" alt="">
+               <img src="images/Big Sale.png" alt="">
             </div>
          </div>
 
          <div class="swiper-slide slide">
             <div class="content">
                <span>order online</span>
-               <h3>rosted chicken</h3>
-               <a href="menu.html" class="btn">Shop Now</a>
+               <h3>Fresh Seasonal Flavor</h3>
+               <a href="menu.php" class="btn">Shop Now</a>
             </div>
             <div class="image">
-               <img src="images/home-img-3.png" alt="">
+               <img src="images/fresh.png" alt="">
             </div>
          </div>
 
@@ -153,8 +153,9 @@ include 'components/add_cart.php';
 
    </div>
 
+   
    <div class="more-btn">
-      <a href="menu.html" class="btn">view all</a>
+      <a href="menu.php" class="btn">view all</a>
    </div>
 
 </section>
